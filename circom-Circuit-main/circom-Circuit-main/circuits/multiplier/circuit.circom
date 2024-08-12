@@ -9,12 +9,12 @@ template Multiplier2 () {
       signal input b;
 
 
-  
+  // intermediate output 
       signal x;
       signal y;
 
 
-
+  // output of complete circuit
       signal output q;
 
       component andGate = AND();
@@ -22,7 +22,7 @@ template Multiplier2 () {
       component orGate = OR();
 
 
-//input
+//input for the circuit 
 
       andGate.a <== a;
       andGate.b <== b;
@@ -40,6 +40,7 @@ template Multiplier2 () {
 
    
 }
+// Code for AND Gate 
 template AND() {
     signal input a;
     signal input b;
@@ -47,6 +48,7 @@ template AND() {
 
     out <== a*b;
 }
+// Code for OR Gate 
 template OR() {
     signal input a;
     signal input b;
@@ -54,7 +56,7 @@ template OR() {
 
     out <== a + b - a*b;
 }
-
+// Code for NOT Gate
 template NOT() {
     signal input in;
     signal output out;
