@@ -134,17 +134,17 @@ This Is Just An Two Command Project So There Is No Way You Gonna Face Any issues
 But You May Encounter ERror Due To Your Wrong Syntax In Circom Programming So Make Sure To Do Your Syntax Correctly
 If You Get Stuck At SomeWhere Or Facing Some Error Or Issue Feel Free To Contact Me On Email I Will Be More Than Happt Help YOu.
 ```
-amarnath759498@gmail.com
+arunjames472@gmail.com
 ```
 
 ## Authors
 
 Contributors names and contact info:
 
-Amar
-[@amar333](amarnath759498@gmail.com)
+Arun
+[@Arun](arunjames472@gmail.com)
 
 
 ## License
 
-This project is licensed under the [amar] License - see the LICENSE.md file for details
+This project is licensed under the [arun] License - see the LICENSE.md file for details
